@@ -1,7 +1,6 @@
 <br>
 <h1 align=center>
 <span> Mi portafolio Julio </span>
-<img align="center" src="./Assets/favicons/presentacion.png" alt="" width="50" height="50">
 </h1>
 
 **Este es mi portafolio espero te guste**
@@ -14,12 +13,7 @@
 <br>
 &emsp; ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
-
-1. Clone this repository to your local machine.
-```bash
-git clone https://github.com/ritoncharlox/Responsive-Portfolio-Website.git
-```
-2. ## Cambios
+1. ## Cambios
 Si deseas puedes realizar tus propios cambios 
 
 ## Portafolio
